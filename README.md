@@ -1,9 +1,7 @@
-# node-mongo-registration-login-api
-
-RESTful API in NodeJS using MongoDB database for a Phonebook where a user manages his/her contacts
-
+# RESTful API in NodeJS using MongoDB database for a Phonebook where a user manages his/her contacts
 
 API calls:
+
     1. Register user:
 
             - route: /users/register
