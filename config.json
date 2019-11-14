@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/phoneBook",
+    "secret": "z@H@z.Bd[Kc`49,F"
+}
