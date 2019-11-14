@@ -1,5 +1,17 @@
 # RESTful API in NodeJS using MongoDB database for a Phonebook where a user manages his/her contacts
 
+How to clone:
+
+    1. git clone https://github.com/karamat33/Phonebook.git
+
+
+How to run:
+
+    1. npm install (install dependencies if not installed)
+    2. npm start 
+    3. http://localhost:4000/
+
+
 API calls:
 
     1. Register user:
